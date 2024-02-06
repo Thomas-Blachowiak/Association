@@ -2,18 +2,16 @@ html body {
 	font-size:100%;
     font-family: Bradley Hand, cursive, sans-serif;
     background-color: #6495ed;
-    padding-top: 100px;
+    padding-top: 90px;
 }
 
-#who {
-    height: 200; 
+#who, #cigogne  {
     background-color: lightgray; 
     border-radius: 20px; 
     margin:30px;
     padding: 20px; 
 }
-
-nav {
+nav, footer {
     background-color: lightgray;
 }
 
@@ -21,3 +19,7 @@ nav {
     height: 300px;
     width: auto;
 }
+
+/* * {
+    border: 1px solid red;
+} */

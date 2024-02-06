@@ -4,3 +4,20 @@ html body {
     background-color: #6495ed;
     padding-top: 100px;
 }
+
+#who {
+    height: 200; 
+    background-color: lightgray; 
+    border-radius: 20px; 
+    margin:30px;
+    padding: 20px; 
+}
+
+nav {
+    background-color: lightgray;
+}
+
+#book {
+    height: 300px;
+    width: auto;
+}

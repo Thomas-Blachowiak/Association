@@ -5,7 +5,7 @@ html body {
     padding-top: 90px;
 }
 
-#who, #cigogne, #event, #event-2, #find-us  {
+#who, #cigogne, #event, #event-2, #find-us, #about  {
     background-color: lightgray; 
     border-radius: 20px; 
     margin:30px;
@@ -15,14 +15,15 @@ nav, footer {
     background-color: lightgray;
 }
 
-#book {
+#book, #think, #connexion, #date, #train, #car {
     height: 300px;
     width: auto;
 }
 #collapseOne, #collapseTwo, #collapseThree {
     background-color: #6495ed;
 }
-/*  * {
+
+/* * {
     border: 1px solid red;
-}  */
+}   */ 
 

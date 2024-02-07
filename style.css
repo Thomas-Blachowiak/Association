@@ -15,15 +15,20 @@ nav, footer {
     background-color: lightgray;
 }
 
-#book, #think, #connexion, #date, #train, #car {
+#book, #think, #connexion, #date {
     height: 300px;
     width: auto;
 }
+#train, #car {
+    height: 200px;
+    width: auto;
+}
+
 #collapseOne, #collapseTwo, #collapseThree {
     background-color: #6495ed;
 }
 
-/* * {
+/*  * {
     border: 1px solid red;
-}   */ 
+}     */
 
